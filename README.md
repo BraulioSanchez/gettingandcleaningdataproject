@@ -6,4 +6,4 @@
 5. Merges both datasets, the training and test.
 6. Converts the `activity` and `subject` columns into factors.
 7. Creates a tidy dataset that consists of the average of each variable for each activity and each subject.
-8. Write those tidy dataset in the file `data_mean.txt`.
+8. Write that tidy dataset in the file `data_mean.txt`.
